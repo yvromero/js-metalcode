@@ -18,8 +18,9 @@ const manualFilterNumbers = filterArray(originalNumbers, (n) => n >= 100);
 console.log(manualFilterNumbers);
 console.log(originalNumbers);
 
-const filterNumbers = originalNumbers.filter(n => n >= 10);
+// Filter
 
+const filterNumbers = originalNumbers.filter(n => n >= 10);
 
 // Example: map with all parameters (value, index, array)
 
