@@ -1,0 +1,17 @@
+{
+   "name": "Pedro",
+   "country": "Mexico",
+   "age": 30,
+   "active": true,
+   "tutor": null,
+   "topics": [
+      "History",
+      "Spanish",
+      "Chinesse"
+   ],
+   "address": {
+      "street": "Avenue SilentHill",
+      "number": 321,
+      "city": "Heal"
+   }
+}
